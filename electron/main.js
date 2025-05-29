@@ -11,7 +11,6 @@ function createWindow () {
     });
 
     win.loadURL('http://localhost:5173');
-    console.log("Request: http://localhost:5173");
     // win.loadFile('../dist/index.html');
 }
 
